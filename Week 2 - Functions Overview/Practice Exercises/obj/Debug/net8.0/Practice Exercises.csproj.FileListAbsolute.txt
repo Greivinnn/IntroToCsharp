@@ -1,0 +1,14 @@
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\bin\Debug\net8.0\Practice Exercises.exe
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\bin\Debug\net8.0\Practice Exercises.deps.json
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\bin\Debug\net8.0\Practice Exercises.runtimeconfig.json
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\bin\Debug\net8.0\Practice Exercises.dll
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\bin\Debug\net8.0\Practice Exercises.pdb
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\obj\Debug\net8.0\Practice Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\obj\Debug\net8.0\Practice Exercises.AssemblyInfoInputs.cache
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\obj\Debug\net8.0\Practice Exercises.AssemblyInfo.cs
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\obj\Debug\net8.0\Practice Exercises.csproj.CoreCompileInputs.cache
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\obj\Debug\net8.0\Practice Exercises.dll
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\obj\Debug\net8.0\refint\Practice Exercises.dll
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\obj\Debug\net8.0\Practice Exercises.pdb
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\obj\Debug\net8.0\Practice Exercises.genruntimeconfig.cache
+C:\Introduction to C#\Week 2 - Functions Overview\Practice Exercises\obj\Debug\net8.0\ref\Practice Exercises.dll

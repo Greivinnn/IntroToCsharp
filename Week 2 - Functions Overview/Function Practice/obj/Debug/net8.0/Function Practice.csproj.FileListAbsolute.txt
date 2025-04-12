@@ -1,0 +1,14 @@
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\bin\Debug\net8.0\Function Practice.exe
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\bin\Debug\net8.0\Function Practice.deps.json
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\bin\Debug\net8.0\Function Practice.runtimeconfig.json
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\bin\Debug\net8.0\Function Practice.dll
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\bin\Debug\net8.0\Function Practice.pdb
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\obj\Debug\net8.0\Function Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\obj\Debug\net8.0\Function Practice.AssemblyInfoInputs.cache
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\obj\Debug\net8.0\Function Practice.AssemblyInfo.cs
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\obj\Debug\net8.0\Function Practice.csproj.CoreCompileInputs.cache
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\obj\Debug\net8.0\Function Practice.dll
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\obj\Debug\net8.0\refint\Function Practice.dll
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\obj\Debug\net8.0\Function Practice.pdb
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\obj\Debug\net8.0\Function Practice.genruntimeconfig.cache
+C:\Introduction to C#\Week 2 - Functions Overview\Function Practice\obj\Debug\net8.0\ref\Function Practice.dll

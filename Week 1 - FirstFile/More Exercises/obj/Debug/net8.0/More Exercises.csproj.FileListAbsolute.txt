@@ -1,0 +1,14 @@
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\bin\Debug\net8.0\More Exercises.exe
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\bin\Debug\net8.0\More Exercises.deps.json
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\bin\Debug\net8.0\More Exercises.runtimeconfig.json
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\bin\Debug\net8.0\More Exercises.dll
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\bin\Debug\net8.0\More Exercises.pdb
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\obj\Debug\net8.0\More Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\obj\Debug\net8.0\More Exercises.AssemblyInfoInputs.cache
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\obj\Debug\net8.0\More Exercises.AssemblyInfo.cs
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\obj\Debug\net8.0\More Exercises.csproj.CoreCompileInputs.cache
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\obj\Debug\net8.0\More Exercises.dll
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\obj\Debug\net8.0\refint\More Exercises.dll
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\obj\Debug\net8.0\More Exercises.pdb
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\obj\Debug\net8.0\More Exercises.genruntimeconfig.cache
+C:\Introduction to C#\Week 1 - FirstFile\More Exercises\obj\Debug\net8.0\ref\More Exercises.dll

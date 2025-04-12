@@ -1,0 +1,14 @@
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\bin\Debug\net8.0\Week 2 - Functions Overview.exe
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\bin\Debug\net8.0\Week 2 - Functions Overview.deps.json
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\bin\Debug\net8.0\Week 2 - Functions Overview.runtimeconfig.json
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\bin\Debug\net8.0\Week 2 - Functions Overview.dll
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\bin\Debug\net8.0\Week 2 - Functions Overview.pdb
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\obj\Debug\net8.0\Week 2 - Functions Overview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\obj\Debug\net8.0\Week 2 - Functions Overview.AssemblyInfoInputs.cache
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\obj\Debug\net8.0\Week 2 - Functions Overview.AssemblyInfo.cs
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\obj\Debug\net8.0\Week 2 - Functions Overview.csproj.CoreCompileInputs.cache
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\obj\Debug\net8.0\Week 2 - Functions Overview.dll
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\obj\Debug\net8.0\refint\Week 2 - Functions Overview.dll
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\obj\Debug\net8.0\Week 2 - Functions Overview.pdb
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\obj\Debug\net8.0\Week 2 - Functions Overview.genruntimeconfig.cache
+C:\Introduction to C#\Week 2 - Functions Overview\Week 2 - Functions Overview\obj\Debug\net8.0\ref\Week 2 - Functions Overview.dll

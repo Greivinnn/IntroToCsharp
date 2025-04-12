@@ -1,0 +1,14 @@
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\bin\Debug\net8.0\Assignment 1 - GreivinWen.exe
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\bin\Debug\net8.0\Assignment 1 - GreivinWen.deps.json
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\bin\Debug\net8.0\Assignment 1 - GreivinWen.runtimeconfig.json
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\bin\Debug\net8.0\Assignment 1 - GreivinWen.dll
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\bin\Debug\net8.0\Assignment 1 - GreivinWen.pdb
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\obj\Debug\net8.0\Assignment 1 - GreivinWen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\obj\Debug\net8.0\Assignment 1 - GreivinWen.AssemblyInfoInputs.cache
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\obj\Debug\net8.0\Assignment 1 - GreivinWen.AssemblyInfo.cs
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\obj\Debug\net8.0\Assignment 1 - GreivinWen.csproj.CoreCompileInputs.cache
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\obj\Debug\net8.0\Assignment 1 - GreivinWen.dll
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\obj\Debug\net8.0\refint\Assignment 1 - GreivinWen.dll
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\obj\Debug\net8.0\Assignment 1 - GreivinWen.pdb
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\obj\Debug\net8.0\Assignment 1 - GreivinWen.genruntimeconfig.cache
+C:\Introduction to C#\Assignment 1 - GreivinWen\Assignment 1 - GreivinWen\obj\Debug\net8.0\ref\Assignment 1 - GreivinWen.dll

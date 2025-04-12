@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Introduction to C#\\Assignment 1 - GreivinWen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F6B230-00E8-47C8-8A19-15D73BA427EC}|Question 2\\Question 2.csproj|c:\\introduction to c#\\assignment 1 - greivinwen\\question 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F6B230-00E8-47C8-8A19-15D73BA427EC}|Question 2\\Question 2.csproj|solutionrelative:question 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56FED8D-2BAF-4086-9A8A-BAA16E924B41}|Question 3\\Question 3.csproj|c:\\introduction to c#\\assignment 1 - greivinwen\\question 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56FED8D-2BAF-4086-9A8A-BAA16E924B41}|Question 3\\Question 3.csproj|solutionrelative:question 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CC1D2-E2A6-498D-BB17-78266EF52A8B}|Question 4\\Question 4.csproj|c:\\introduction to c#\\assignment 1 - greivinwen\\question 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CC1D2-E2A6-498D-BB17-78266EF52A8B}|Question 4\\Question 4.csproj|solutionrelative:question 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6583F2C2-C4CC-4864-8812-E8E01DFD6B52}|Assignment 1 - GreivinWen\\Question 1.csproj|c:\\introduction to c#\\assignment 1 - greivinwen\\assignment 1 - greivinwen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6583F2C2-C4CC-4864-8812-E8E01DFD6B52}|Assignment 1 - GreivinWen\\Question 1.csproj|solutionrelative:assignment 1 - greivinwen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Introduction to C#\\Assignment 1 - GreivinWen\\Question 4\\Program.cs",
+              "RelativeDocumentMoniker": "Question 4\\Program.cs",
+              "ToolTip": "C:\\Introduction to C#\\Assignment 1 - GreivinWen\\Question 4\\Program.cs",
+              "RelativeToolTip": "Question 4\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T22:31:57.552Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Introduction to C#\\Assignment 1 - GreivinWen\\Question 3\\Program.cs",
+              "RelativeDocumentMoniker": "Question 3\\Program.cs",
+              "ToolTip": "C:\\Introduction to C#\\Assignment 1 - GreivinWen\\Question 3\\Program.cs",
+              "RelativeToolTip": "Question 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:55:47.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Introduction to C#\\Assignment 1 - GreivinWen\\Question 2\\Program.cs",
+              "RelativeDocumentMoniker": "Question 2\\Program.cs",
+              "ToolTip": "C:\\Introduction to C#\\Assignment 1 - GreivinWen\\Question 2\\Program.cs",
+              "RelativeToolTip": "Question 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:43:58.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Introduction to C#\\Assignment 1 - GreivinWen\\Assignment 1 - GreivinWen\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment 1 - GreivinWen\\Program.cs",
+              "ToolTip": "C:\\Introduction to C#\\Assignment 1 - GreivinWen\\Assignment 1 - GreivinWen\\Program.cs",
+              "RelativeToolTip": "Assignment 1 - GreivinWen\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:36:34.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

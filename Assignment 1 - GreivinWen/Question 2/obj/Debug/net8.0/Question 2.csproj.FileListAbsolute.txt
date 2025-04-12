@@ -1,0 +1,14 @@
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\bin\Debug\net8.0\Question 2.exe
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\bin\Debug\net8.0\Question 2.deps.json
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\bin\Debug\net8.0\Question 2.runtimeconfig.json
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\bin\Debug\net8.0\Question 2.dll
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\bin\Debug\net8.0\Question 2.pdb
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\obj\Debug\net8.0\Question 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\obj\Debug\net8.0\Question 2.AssemblyInfoInputs.cache
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\obj\Debug\net8.0\Question 2.AssemblyInfo.cs
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\obj\Debug\net8.0\Question 2.csproj.CoreCompileInputs.cache
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\obj\Debug\net8.0\Question 2.dll
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\obj\Debug\net8.0\refint\Question 2.dll
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\obj\Debug\net8.0\Question 2.pdb
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\obj\Debug\net8.0\Question 2.genruntimeconfig.cache
+C:\Introduction to C#\Assignment 1 - GreivinWen\Question 2\obj\Debug\net8.0\ref\Question 2.dll
