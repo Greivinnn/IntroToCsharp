@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Introduction to C#\\Week 2 - Functions Overview\\Function Practice\\Function Practice.csproj",
+      "projectUniqueName": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Function Practice\\Function Practice.csproj",
       "projectName": "Function Practice",
-      "projectPath": "C:\\Introduction to C#\\Week 2 - Functions Overview\\Function Practice\\Function Practice.csproj",
+      "projectPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Function Practice\\Function Practice.csproj",
       "packagesPath": "C:\\Users\\greiv\\.nuget\\packages\\",
-      "outputPath": "C:\\Introduction to C#\\Week 2 - Functions Overview\\Function Practice\\obj\\",
+      "outputPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Function Practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

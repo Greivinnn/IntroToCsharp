@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E77D94-7B9C-426E-A361-2ED8F13CCB0F}|Question 5\\Question 5.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\question 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E77D94-7B9C-426E-A361-2ED8F13CCB0F}|Question 5\\Question 5.csproj|solutionrelative:question 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166F6370-A710-46A5-B2F3-8A0B4DA85FDF}|Question 4\\Question 4.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\question 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166F6370-A710-46A5-B2F3-8A0B4DA85FDF}|Question 4\\Question 4.csproj|solutionrelative:question 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0314BF-6931-4DC1-A111-623DE642AB71}|Question 3\\Question 3.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\question 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0314BF-6931-4DC1-A111-623DE642AB71}|Question 3\\Question 3.csproj|solutionrelative:question 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF80AE83-D6C6-4251-A6F2-7F0CC7749519}|Question 2\\Question 2.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\question 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF80AE83-D6C6-4251-A6F2-7F0CC7749519}|Question 2\\Question 2.csproj|solutionrelative:question 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE96FE8-C3E2-420E-BF0F-6E988B93C559}|VGP133_A2_WenWu_Greivin\\Question 1.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\vgp133_a2_wenwu_greivin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE96FE8-C3E2-420E-BF0F-6E988B93C559}|VGP133_A2_WenWu_Greivin\\Question 1.csproj|solutionrelative:vgp133_a2_wenwu_greivin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE96FE8-C3E2-420E-BF0F-6E988B93C559}|VGP133_A2_WenWu_Greivin\\Question 1.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\vgp133_a2_wenwu_greivin\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE96FE8-C3E2-420E-BF0F-6E988B93C559}|VGP133_A2_WenWu_Greivin\\Question 1.csproj|solutionrelative:vgp133_a2_wenwu_greivin\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E77D94-7B9C-426E-A361-2ED8F13CCB0F}|Question 5\\Question 5.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\question 5\\magician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E77D94-7B9C-426E-A361-2ED8F13CCB0F}|Question 5\\Question 5.csproj|solutionrelative:question 5\\magician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E77D94-7B9C-426E-A361-2ED8F13CCB0F}|Question 5\\Question 5.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\question 5\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E77D94-7B9C-426E-A361-2ED8F13CCB0F}|Question 5\\Question 5.csproj|solutionrelative:question 5\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166F6370-A710-46A5-B2F3-8A0B4DA85FDF}|Question 4\\Question 4.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\question 4\\motorway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166F6370-A710-46A5-B2F3-8A0B4DA85FDF}|Question 4\\Question 4.csproj|solutionrelative:question 4\\motorway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0314BF-6931-4DC1-A111-623DE642AB71}|Question 3\\Question 3.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\question 3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0314BF-6931-4DC1-A111-623DE642AB71}|Question 3\\Question 3.csproj|solutionrelative:question 3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF80AE83-D6C6-4251-A6F2-7F0CC7749519}|Question 2\\Question 2.csproj|c:\\lasale first year stuff\\introduction to c#\\vgp133_a2_wenwu_greivin\\question 2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF80AE83-D6C6-4251-A6F2-7F0CC7749519}|Question 2\\Question 2.csproj|solutionrelative:question 2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Magician.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 5\\Magician.cs",
+              "RelativeDocumentMoniker": "Question 5\\Magician.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 5\\Magician.cs",
+              "RelativeToolTip": "Question 5\\Magician.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwE4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:06:43.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spell.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 5\\Spell.cs",
+              "RelativeDocumentMoniker": "Question 5\\Spell.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 5\\Spell.cs",
+              "RelativeToolTip": "Question 5\\Spell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:51:26.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 5\\Program.cs",
+              "RelativeDocumentMoniker": "Question 5\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 5\\Program.cs",
+              "RelativeToolTip": "Question 5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:51:03.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 4\\Program.cs",
+              "RelativeDocumentMoniker": "Question 4\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 4\\Program.cs",
+              "RelativeToolTip": "Question 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:26:08.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Motorway.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 4\\Motorway.cs",
+              "RelativeDocumentMoniker": "Question 4\\Motorway.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 4\\Motorway.cs",
+              "RelativeToolTip": "Question 4\\Motorway.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwFkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:30:58.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 3\\Program.cs",
+              "RelativeDocumentMoniker": "Question 3\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 3\\Program.cs",
+              "RelativeToolTip": "Question 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:38:05.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\VGP133_A2_WenWu_Greivin\\Rectangle.cs",
+              "RelativeDocumentMoniker": "VGP133_A2_WenWu_Greivin\\Rectangle.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\VGP133_A2_WenWu_Greivin\\Rectangle.cs",
+              "RelativeToolTip": "VGP133_A2_WenWu_Greivin\\Rectangle.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:01:01.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\VGP133_A2_WenWu_Greivin\\Program.cs",
+              "RelativeDocumentMoniker": "VGP133_A2_WenWu_Greivin\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\VGP133_A2_WenWu_Greivin\\Program.cs",
+              "RelativeToolTip": "VGP133_A2_WenWu_Greivin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:59:12.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 2\\Program.cs",
+              "RelativeDocumentMoniker": "Question 2\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 2\\Program.cs",
+              "RelativeToolTip": "Question 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:54:46.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 2\\Employee.cs",
+              "RelativeDocumentMoniker": "Question 2\\Employee.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 2\\Employee.cs",
+              "RelativeToolTip": "Question 2\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:56:40.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 3\\Book.cs",
+              "RelativeDocumentMoniker": "Question 3\\Book.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\VGP133_A2_WenWu_Greivin\\Question 3\\Book.cs",
+              "RelativeToolTip": "Question 3\\Book.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:38:41.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

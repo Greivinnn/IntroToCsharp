@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7E69A4-0A93-4E23-90A1-C85315536BDD}|Exercises\\Car Exercise.csproj|c:\\lasale first year stuff\\introduction to c#\\week 3 notes\\exercises\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7E69A4-0A93-4E23-90A1-C85315536BDD}|Exercises\\Car Exercise.csproj|solutionrelative:exercises\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7E69A4-0A93-4E23-90A1-C85315536BDD}|Exercises\\Car Exercise.csproj|c:\\lasale first year stuff\\introduction to c#\\week 3 notes\\exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7E69A4-0A93-4E23-90A1-C85315536BDD}|Exercises\\Car Exercise.csproj|solutionrelative:exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC43D987-497D-413B-BD52-64DB04D88289}|Week 3 notes\\Week 3 notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 3 notes\\week 3 notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC43D987-497D-413B-BD52-64DB04D88289}|Week 3 notes\\Week 3 notes.csproj|solutionrelative:week 3 notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E393B68-7A0E-4B8B-B40F-6C6345817102}|Employee exercise\\Employee exercise.csproj|c:\\lasale first year stuff\\introduction to c#\\week 3 notes\\employee exercise\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E393B68-7A0E-4B8B-B40F-6C6345817102}|Employee exercise\\Employee exercise.csproj|solutionrelative:employee exercise\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E393B68-7A0E-4B8B-B40F-6C6345817102}|Employee exercise\\Employee exercise.csproj|c:\\lasale first year stuff\\introduction to c#\\week 3 notes\\employee exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E393B68-7A0E-4B8B-B40F-6C6345817102}|Employee exercise\\Employee exercise.csproj|solutionrelative:employee exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E393B68-7A0E-4B8B-B40F-6C6345817102}|Employee exercise\\Employee exercise.csproj|c:\\lasale first year stuff\\introduction to c#\\week 3 notes\\employee exercise\\employee exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E393B68-7A0E-4B8B-B40F-6C6345817102}|Employee exercise\\Employee exercise.csproj|solutionrelative:employee exercise\\employee exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47EF242-DC05-4303-A630-CC541F81D4FA}|CashBack Exercise\\CashBack Exercise.csproj|c:\\lasale first year stuff\\introduction to c#\\week 3 notes\\cashback exercise\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47EF242-DC05-4303-A630-CC541F81D4FA}|CashBack Exercise\\CashBack Exercise.csproj|solutionrelative:cashback exercise\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47EF242-DC05-4303-A630-CC541F81D4FA}|CashBack Exercise\\CashBack Exercise.csproj|c:\\lasale first year stuff\\introduction to c#\\week 3 notes\\cashback exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47EF242-DC05-4303-A630-CC541F81D4FA}|CashBack Exercise\\CashBack Exercise.csproj|solutionrelative:cashback exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC43D987-497D-413B-BD52-64DB04D88289}|Week 3 notes\\Week 3 notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 3 notes\\week 3 notes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC43D987-497D-413B-BD52-64DB04D88289}|Week 3 notes\\Week 3 notes.csproj|solutionrelative:week 3 notes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Employee exercise\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee exercise\\Employee.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Employee exercise\\Employee.cs",
+              "RelativeToolTip": "Employee exercise\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:44:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee exercise.csproj",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Employee exercise\\Employee exercise.csproj",
+              "RelativeDocumentMoniker": "Employee exercise\\Employee exercise.csproj",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Employee exercise\\Employee exercise.csproj",
+              "RelativeToolTip": "Employee exercise\\Employee exercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T18:43:45.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Employee exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Employee exercise\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Employee exercise\\Program.cs",
+              "RelativeToolTip": "Employee exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:41:00.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\CashBack Exercise\\CreditCard.cs",
+              "RelativeDocumentMoniker": "CashBack Exercise\\CreditCard.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\CashBack Exercise\\CreditCard.cs",
+              "RelativeToolTip": "CashBack Exercise\\CreditCard.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:54:55.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\CashBack Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "CashBack Exercise\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\CashBack Exercise\\Program.cs",
+              "RelativeToolTip": "CashBack Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:54:08.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Exercises\\Car.cs",
+              "RelativeDocumentMoniker": "Exercises\\Car.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Exercises\\Car.cs",
+              "RelativeToolTip": "Exercises\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:48:22.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Week 3 notes\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Week 3 notes\\BankAccount.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Week 3 notes\\BankAccount.cs",
+              "RelativeToolTip": "Week 3 notes\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:45:00.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Exercises\\Program.cs",
+              "RelativeDocumentMoniker": "Exercises\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Exercises\\Program.cs",
+              "RelativeToolTip": "Exercises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:47:21.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Week 3 notes\\Program.cs",
+              "RelativeDocumentMoniker": "Week 3 notes\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 3 notes\\Week 3 notes\\Program.cs",
+              "RelativeToolTip": "Week 3 notes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:12:54.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

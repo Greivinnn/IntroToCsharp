@@ -1,0 +1,15 @@
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\bin\Debug\net8.0\Car Exercise.exe
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\bin\Debug\net8.0\Car Exercise.deps.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\bin\Debug\net8.0\Car Exercise.runtimeconfig.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\bin\Debug\net8.0\Car Exercise.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\bin\Debug\net8.0\Car Exercise.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\obj\Debug\net8.0\Car Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\obj\Debug\net8.0\Car Exercise.AssemblyInfoInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\obj\Debug\net8.0\Car Exercise.AssemblyInfo.cs
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\obj\Debug\net8.0\Car Exercise.csproj.CoreCompileInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\obj\Debug\net8.0\Car Exercise.sourcelink.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\obj\Debug\net8.0\Car Exercise.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\obj\Debug\net8.0\refint\Car Exercise.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\obj\Debug\net8.0\Car Exercise.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\obj\Debug\net8.0\Car Exercise.genruntimeconfig.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 3 notes\Exercises\obj\Debug\net8.0\ref\Car Exercise.dll

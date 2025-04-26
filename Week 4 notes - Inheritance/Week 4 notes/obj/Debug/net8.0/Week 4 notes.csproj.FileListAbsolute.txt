@@ -1,0 +1,30 @@
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\bin\Debug\net8.0\Week 4 notes.exe
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\bin\Debug\net8.0\Week 4 notes.deps.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\bin\Debug\net8.0\Week 4 notes.runtimeconfig.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\bin\Debug\net8.0\Week 4 notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\bin\Debug\net8.0\Week 4 notes.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\obj\Debug\net8.0\Week 4 notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\obj\Debug\net8.0\Week 4 notes.AssemblyInfoInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\obj\Debug\net8.0\Week 4 notes.AssemblyInfo.cs
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\obj\Debug\net8.0\Week 4 notes.csproj.CoreCompileInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\obj\Debug\net8.0\Week 4 notes.sourcelink.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\obj\Debug\net8.0\Week 4 notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\obj\Debug\net8.0\refint\Week 4 notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\obj\Debug\net8.0\Week 4 notes.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\obj\Debug\net8.0\Week 4 notes.genruntimeconfig.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes\Week 4 notes\obj\Debug\net8.0\ref\Week 4 notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\obj\Debug\net8.0\Week 4 notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\obj\Debug\net8.0\Week 4 notes.AssemblyInfoInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\obj\Debug\net8.0\Week 4 notes.AssemblyInfo.cs
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\obj\Debug\net8.0\Week 4 notes.csproj.CoreCompileInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\obj\Debug\net8.0\Week 4 notes.sourcelink.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\obj\Debug\net8.0\Week 4 notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\obj\Debug\net8.0\refint\Week 4 notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\obj\Debug\net8.0\Week 4 notes.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\bin\Debug\net8.0\Week 4 notes.exe
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\bin\Debug\net8.0\Week 4 notes.deps.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\bin\Debug\net8.0\Week 4 notes.runtimeconfig.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\bin\Debug\net8.0\Week 4 notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\bin\Debug\net8.0\Week 4 notes.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\obj\Debug\net8.0\Week 4 notes.genruntimeconfig.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 4 notes - Inheritance\Week 4 notes\obj\Debug\net8.0\ref\Week 4 notes.dll

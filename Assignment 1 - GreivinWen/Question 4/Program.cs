@@ -9,7 +9,8 @@ void CheckContrabands(List<string> userItems)
 
     for (int i = 0; i < userItems.Count; i++)
     {
-        if(userItems[i] == "Cigarrette" || userItems[i] == "Drugs" || userItems[i] == "Gun" || userItems[i] == "Weed")
+        string item = userItems[i].ToLower();   // this sets the first letter to lower case, in case the first letter is capital letter
+        if(item == "cigarette" || item == "drugs" || item == "gun" || item == "weed")
         {
             drugFound = true;
             if(drugFound)
@@ -22,18 +23,38 @@ void CheckContrabands(List<string> userItems)
     
     if (!drugFound)
     {
-        Console.WriteLine("No contrabrands where found in your items.");
-        Console.WriteLine(numberOfContrabands + " where confiscated from you.");
+        Console.WriteLine("\nNo contrabrands were found in your items.");
+        Console.WriteLine(numberOfContrabands + " were confiscated from you.");
     }
     else
     {
-        Console.WriteLine("Contraband Found:");
+        Console.WriteLine("\nContraband Found:");
         foreach (string item in contrabandsFound)
         {
             Console.WriteLine(item);
         }
-        Console.WriteLine(numberOfContrabands + " where confiscated from you.");
+        Console.WriteLine(numberOfContrabands + " were confiscated from you.");
     }
 }
 
-List<string> 
+List<string> contrabandsFound = new List<string>();
+
+Console.WriteLine("Welcome, to Vancouver International Airport\n");
+Console.WriteLine(@"Illegal items such as: ""cigarette"", ""drugs"", ""gun"", and ""weed"". Thank you for complying with the rules." + "\n");
+Console.WriteLine(@"Please input the items you are bringing into the country (press ""done"" when finished): ");
+
+while (true)
+{
+    string userInput = Console.ReadLine();
+    if (userInput == "done")
+    {
+        break;
+    }
+    else
+    {
+        contrabandsFound.Add(userInput);
+    }
+}
+
+CheckContrabands(contrabandsFound);
+

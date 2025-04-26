@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\Week 2 - Functions Overview.csproj": {}
+    "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\Week 2 - Functions Overview.csproj": {}
   },
   "projects": {
-    "C:\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\Week 2 - Functions Overview.csproj": {
+    "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\Week 2 - Functions Overview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\Week 2 - Functions Overview.csproj",
+        "projectUniqueName": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\Week 2 - Functions Overview.csproj",
         "projectName": "Week 2 - Functions Overview",
-        "projectPath": "C:\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\Week 2 - Functions Overview.csproj",
+        "projectPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\Week 2 - Functions Overview.csproj",
         "packagesPath": "C:\\Users\\greiv\\.nuget\\packages\\",
-        "outputPath": "C:\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\obj\\",
+        "outputPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

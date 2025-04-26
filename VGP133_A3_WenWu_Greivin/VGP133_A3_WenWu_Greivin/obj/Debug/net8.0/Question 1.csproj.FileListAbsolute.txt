@@ -1,0 +1,15 @@
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\obj\Debug\net8.0\Question 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\obj\Debug\net8.0\Question 1.AssemblyInfoInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\obj\Debug\net8.0\Question 1.AssemblyInfo.cs
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\obj\Debug\net8.0\Question 1.csproj.CoreCompileInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\obj\Debug\net8.0\Question 1.sourcelink.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\bin\Debug\net8.0\Question 1.exe
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\bin\Debug\net8.0\Question 1.deps.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\bin\Debug\net8.0\Question 1.runtimeconfig.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\bin\Debug\net8.0\Question 1.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\bin\Debug\net8.0\Question 1.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\obj\Debug\net8.0\Question 1.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\obj\Debug\net8.0\refint\Question 1.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\obj\Debug\net8.0\Question 1.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\obj\Debug\net8.0\Question 1.genruntimeconfig.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A3_WenWu_Greivin\VGP133_A3_WenWu_Greivin\obj\Debug\net8.0\ref\Question 1.dll
