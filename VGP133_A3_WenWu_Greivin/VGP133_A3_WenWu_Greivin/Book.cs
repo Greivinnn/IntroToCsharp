@@ -13,7 +13,8 @@ namespace Question_1
         private string _genre;
         private int _publicationYear;
 
-        public Book(string author, string genre, int publicationYear)
+        public Book(string productName, float price, float discount, string description, string author, string genre, int publicationYear)
+           : base(productName, price, discount, description) // Call the base class constructor
         {
             _author = author;
             _genre = genre;
@@ -21,6 +22,7 @@ namespace Question_1
         }
         public override void DisplayInfo()
         {
+            base.DisplayInfo();
             Console.WriteLine("Book Author: " + _author);
             Console.WriteLine("Book Genre: " + _genre);
             Console.WriteLine("Book Publication Year: " + _publicationYear);

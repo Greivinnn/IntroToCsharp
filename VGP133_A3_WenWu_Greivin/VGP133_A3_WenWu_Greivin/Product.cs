@@ -8,10 +8,23 @@ namespace VGP133_A3_WenWu_Greivin
 {
     public class Product
     {
-        private string _productName;
+        public string _productName;
         private float _price;
         private float _discount;
         private string _description;
+
+        public string ProductName
+        {
+            get { return _productName; }
+        }
+
+        public Product(string productName, float price, float discount, string description)
+        {
+            _productName = productName;
+            _price = price;
+            _discount = discount;
+            _description = description;
+        }
 
         public virtual void CalculateTax(float price)
         {

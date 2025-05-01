@@ -13,7 +13,8 @@ namespace Question_1
         private string _model;
         private int _yearsOfWarranty;
 
-        public Electronics(string brand, string model, int yearsOfWarranty)
+        public Electronics(string productName, float price, float discount, string description, string brand, string model, int yearsOfWarranty)
+             : base(productName, price, discount, description) // Call the base class constructor
         {
             _brand = brand;
             _model = model;
@@ -21,6 +22,7 @@ namespace Question_1
         }
         public override void DisplayInfo()
         {
+            base.DisplayInfo(); // this is our display info from Product, thats our base class
             Console.WriteLine("Brand: " + _brand);
             Console.WriteLine("Model: " + _model);
             Console.WriteLine("Warranty Period (years): " + _yearsOfWarranty);

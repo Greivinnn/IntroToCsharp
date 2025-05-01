@@ -13,7 +13,8 @@ namespace Question_1
         private string _color;
         private string _material;
 
-        public Clothing(string size, string color, string material)
+        public Clothing(string productName, float price, float discount, string description, string size, string color, string material)
+            : base(productName, price, discount, description) // Call the base class constructor
         {
             _size = size;
             _color = color;
@@ -22,6 +23,7 @@ namespace Question_1
 
         public override void DisplayInfo()
         {
+            base.DisplayInfo();
             Console.WriteLine("Clothes Size: " + _size);
             Console.WriteLine("Clothes Color: " + _color);
             Console.WriteLine("Clothes Material: " + _material);
