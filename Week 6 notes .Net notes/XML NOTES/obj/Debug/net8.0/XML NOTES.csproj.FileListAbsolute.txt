@@ -1,0 +1,15 @@
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\bin\Debug\net8.0\XML NOTES.exe
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\bin\Debug\net8.0\XML NOTES.deps.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\bin\Debug\net8.0\XML NOTES.runtimeconfig.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\bin\Debug\net8.0\XML NOTES.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\bin\Debug\net8.0\XML NOTES.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\obj\Debug\net8.0\XML NOTES.GeneratedMSBuildEditorConfig.editorconfig
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\obj\Debug\net8.0\XML NOTES.AssemblyInfoInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\obj\Debug\net8.0\XML NOTES.AssemblyInfo.cs
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\obj\Debug\net8.0\XML NOTES.csproj.CoreCompileInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\obj\Debug\net8.0\XML NOTES.sourcelink.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\obj\Debug\net8.0\XML NOTES.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\obj\Debug\net8.0\refint\XML NOTES.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\obj\Debug\net8.0\XML NOTES.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\obj\Debug\net8.0\XML NOTES.genruntimeconfig.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 6 notes .Net notes\XML NOTES\obj\Debug\net8.0\ref\XML NOTES.dll

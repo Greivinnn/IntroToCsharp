@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWeapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Weapon>
+    <Name>Sword</Name>
+    <AtkPower>44</AtkPower>
+    <StrenghtRequirement>30</StrenghtRequirement>
+    <OwnerName>JP</OwnerName>
+  </Weapon>
+  <Weapon>
+    <Name>Axe</Name>
+    <AtkPower>22</AtkPower>
+    <StrenghtRequirement>10</StrenghtRequirement>
+    <OwnerName>Alfred</OwnerName>
+  </Weapon>
+  <Weapon>
+    <Name>fireball</Name>
+    <AtkPower>55</AtkPower>
+    <StrenghtRequirement>33</StrenghtRequirement>
+    <OwnerName>Santi</OwnerName>
+  </Weapon>
+</ArrayOfWeapon>

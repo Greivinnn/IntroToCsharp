@@ -26,9 +26,15 @@ void CalculatorFunction(float x, float y, string opSymbol)
     }
     else if(opSymbol == "%")
     {
-        float temp = x * y;
-        opResult = temp / 100;
-        Console.WriteLine($"The percentage is: {opResult}");
+        if (y != 0)
+        {
+            opResult = x % y; // Corrected modulus operation
+            Console.WriteLine($"The modulus result is: {opResult}");
+        }
+        else
+        {
+            Console.WriteLine("Error: Modulus by zero is not allowed.");
+        }
 
     }
     else

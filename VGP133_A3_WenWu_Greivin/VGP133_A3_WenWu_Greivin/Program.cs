@@ -21,6 +21,39 @@ foreach (var product in storeProducts)
 }
 
 ShoppingCart cart = new ShoppingCart();
-cart.AddToCart(ref storeProducts);
-cart.CalculateTotal(ref storeProducts);
-cart.CheckOut(ref storeProducts);
+
+bool exitProgram = false;
+while (!exitProgram)
+{
+    Console.WriteLine("\nWhat would you like to do?");
+    Console.WriteLine("1. Add products to cart");
+    Console.WriteLine("2. Remove products from cart");
+    Console.WriteLine("3. Calculate total");
+    Console.WriteLine("4. Checkout");
+    Console.WriteLine("5. Exit");
+
+    string choice = Console.ReadLine();
+
+    switch (choice)
+    {
+        case "1":
+            cart.AddToCart(ref storeProducts);
+            break;
+        case "2":
+            cart.RemoveFromCart(ref storeProducts);
+            break;
+        case "3":
+            cart.CalculateTotal(ref storeProducts);
+            break;
+        case "4":
+            cart.CheckOut(ref storeProducts);
+            break;
+        case "5":
+            exitProgram = true;
+            Console.WriteLine("Thank you for visiting Wesh.com!");
+            break;
+        default:
+            Console.WriteLine("Invalid option. Please try again.");
+            break;
+    }
+}

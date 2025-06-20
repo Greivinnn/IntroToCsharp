@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercise 2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|solutionrelative:exercise 2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercise 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|solutionrelative:exercise 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercise 2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|solutionrelative:exercise 2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D913CE-2C55-4A87-B8AB-5B733C4C4756}|Interfaces notes\\Interfaces notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\interfaces notes\\ilife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D913CE-2C55-4A87-B8AB-5B733C4C4756}|Interfaces notes\\Interfaces notes.csproj|solutionrelative:interfaces notes\\ilife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C2D3E-CC8D-4CCC-B9CA-A296B569AD7F}|Polymorphism notes\\Polymorphism notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\polymorphism notes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C2D3E-CC8D-4CCC-B9CA-A296B569AD7F}|Polymorphism notes\\Polymorphism notes.csproj|solutionrelative:polymorphism notes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B44B966-14EF-445F-8539-1F47D48FC80D}|Week 4 notes\\Week 4 notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\week 4 notes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B44B966-14EF-445F-8539-1F47D48FC80D}|Week 4 notes\\Week 4 notes.csproj|solutionrelative:week 4 notes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED8ACF0-C06B-4308-9E21-F8A0E74C296E}|Exercises\\Exercises.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercises\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED8ACF0-C06B-4308-9E21-F8A0E74C296E}|Exercises\\Exercises.csproj|solutionrelative:exercises\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED8ACF0-C06B-4308-9E21-F8A0E74C296E}|Exercises\\Exercises.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED8ACF0-C06B-4308-9E21-F8A0E74C296E}|Exercises\\Exercises.csproj|solutionrelative:exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C2D3E-CC8D-4CCC-B9CA-A296B569AD7F}|Polymorphism notes\\Polymorphism notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\polymorphism notes\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C2D3E-CC8D-4CCC-B9CA-A296B569AD7F}|Polymorphism notes\\Polymorphism notes.csproj|solutionrelative:polymorphism notes\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B44B966-14EF-445F-8539-1F47D48FC80D}|Week 4 notes\\Week 4 notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\week 4 notes\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B44B966-14EF-445F-8539-1F47D48FC80D}|Week 4 notes\\Week 4 notes.csproj|solutionrelative:week 4 notes\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{6B44B966-14EF-445F-8539-1F47D48FC80D}|Week 4 notes\\Week 4 notes.csproj|solutionrelative:week 4 notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B44B966-14EF-445F-8539-1F47D48FC80D}|Week 4 notes\\Week 4 notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\week 4 notes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B44B966-14EF-445F-8539-1F47D48FC80D}|Week 4 notes\\Week 4 notes.csproj|solutionrelative:week 4 notes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B44B966-14EF-445F-8539-1F47D48FC80D}|Week 4 notes\\Week 4 notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\week 4 notes\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B44B966-14EF-445F-8539-1F47D48FC80D}|Week 4 notes\\Week 4 notes.csproj|solutionrelative:week 4 notes\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{6B44B966-14EF-445F-8539-1F47D48FC80D}|Week 4 notes\\Week 4 notes.csproj|solutionrelative:week 4 notes\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27D913CE-2C55-4A87-B8AB-5B733C4C4756}|Interfaces notes\\Interfaces notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\interfaces notes\\ilife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27D913CE-2C55-4A87-B8AB-5B733C4C4756}|Interfaces notes\\Interfaces notes.csproj|solutionrelative:interfaces notes\\ilife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27D913CE-2C55-4A87-B8AB-5B733C4C4756}|Interfaces notes\\Interfaces notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\interfaces notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27D913CE-2C55-4A87-B8AB-5B733C4C4756}|Interfaces notes\\Interfaces notes.csproj|solutionrelative:interfaces notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED8ACF0-C06B-4308-9E21-F8A0E74C296E}|Exercises\\Exercises.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercises\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED8ACF0-C06B-4308-9E21-F8A0E74C296E}|Exercises\\Exercises.csproj|solutionrelative:exercises\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BED8ACF0-C06B-4308-9E21-F8A0E74C296E}|Exercises\\Exercises.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercises\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,30 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercise 2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|solutionrelative:exercise 2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercise 2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|solutionrelative:exercise 2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercise 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|solutionrelative:exercise 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercise 2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A95127D2-EC14-46A3-92DB-BD09DD74D20A}|Exercise 2\\Exercise 2.csproj|solutionrelative:exercise 2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{760C2D3E-CC8D-4CCC-B9CA-A296B569AD7F}|Polymorphism notes\\Polymorphism notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\polymorphism notes\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C2D3E-CC8D-4CCC-B9CA-A296B569AD7F}|Polymorphism notes\\Polymorphism notes.csproj|solutionrelative:polymorphism notes\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{760C2D3E-CC8D-4CCC-B9CA-A296B569AD7F}|Polymorphism notes\\Polymorphism notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\polymorphism notes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C2D3E-CC8D-4CCC-B9CA-A296B569AD7F}|Polymorphism notes\\Polymorphism notes.csproj|solutionrelative:polymorphism notes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED8ACF0-C06B-4308-9E21-F8A0E74C296E}|Exercises\\Exercises.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED8ACF0-C06B-4308-9E21-F8A0E74C296E}|Exercises\\Exercises.csproj|solutionrelative:exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{760C2D3E-CC8D-4CCC-B9CA-A296B569AD7F}|Polymorphism notes\\Polymorphism notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 4 notes - inheritance\\polymorphism notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,82 +105,12 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Circle.cs",
-              "RelativeDocumentMoniker": "Exercise 2\\Circle.cs",
-              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Circle.cs",
-              "RelativeToolTip": "Exercise 2\\Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:43:08.679Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Rectangle.cs",
-              "RelativeDocumentMoniker": "Exercise 2\\Rectangle.cs",
-              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Rectangle.cs",
-              "RelativeToolTip": "Exercise 2\\Rectangle.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:39:08.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Shape.cs",
-              "RelativeDocumentMoniker": "Exercise 2\\Shape.cs",
-              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Shape.cs",
-              "RelativeToolTip": "Exercise 2\\Shape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:33:00.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Program.cs",
-              "RelativeDocumentMoniker": "Exercise 2\\Program.cs",
-              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Program.cs",
-              "RelativeToolTip": "Exercise 2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:32:47.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ILife.cs",
-              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\ILife.cs",
-              "RelativeDocumentMoniker": "Week 4 notes\\ILife.cs",
-              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\ILife.cs",
-              "RelativeToolTip": "Week 4 notes\\ILife.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:15:45.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ILife.cs",
-              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Interfaces notes\\ILife.cs",
-              "RelativeDocumentMoniker": "Interfaces notes\\ILife.cs",
-              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Interfaces notes\\ILife.cs",
-              "RelativeToolTip": "Interfaces notes\\ILife.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:13:11.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Interfaces notes\\Program.cs",
               "RelativeDocumentMoniker": "Interfaces notes\\Program.cs",
@@ -188,12 +118,11 @@
               "RelativeToolTip": "Interfaces notes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:12:26.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T18:12:26.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
               "Title": "Cat.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Polymorphism notes\\Cat.cs",
               "RelativeDocumentMoniker": "Polymorphism notes\\Cat.cs",
@@ -217,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Polymorphism notes\\Animal.cs",
               "RelativeDocumentMoniker": "Polymorphism notes\\Animal.cs",
@@ -225,7 +154,8 @@
               "RelativeToolTip": "Polymorphism notes\\Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T17:17:55.192Z"
+              "WhenOpened": "2025-04-24T17:17:55.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -253,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Mage.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercises\\Mage.cs",
               "RelativeDocumentMoniker": "Exercises\\Mage.cs",
@@ -266,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercises\\Character.cs",
               "RelativeDocumentMoniker": "Exercises\\Character.cs",
@@ -278,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercises\\Program.cs",
               "RelativeDocumentMoniker": "Exercises\\Program.cs",
@@ -286,11 +216,12 @@
               "RelativeToolTip": "Exercises\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:50:32.284Z"
+              "WhenOpened": "2025-04-24T16:50:32.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Goat.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\Goat.cs",
               "RelativeDocumentMoniker": "Week 4 notes\\Goat.cs",
@@ -298,12 +229,11 @@
               "RelativeToolTip": "Week 4 notes\\Goat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:47:28.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T16:47:28.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Cow.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\Cow.cs",
               "RelativeDocumentMoniker": "Week 4 notes\\Cow.cs",
@@ -311,25 +241,11 @@
               "RelativeToolTip": "Week 4 notes\\Cow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:45:24.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T16:45:24.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\Cat.cs",
-              "RelativeDocumentMoniker": "Week 4 notes\\Cat.cs",
-              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\Cat.cs",
-              "RelativeToolTip": "Week 4 notes\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:39:28.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\Dog.cs",
               "RelativeDocumentMoniker": "Week 4 notes\\Dog.cs",
@@ -337,12 +253,99 @@
               "RelativeToolTip": "Week 4 notes\\Dog.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:35:32.272Z",
+              "WhenOpened": "2025-04-24T16:35:32.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILife.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Interfaces notes\\ILife.cs",
+              "RelativeDocumentMoniker": "Interfaces notes\\ILife.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Interfaces notes\\ILife.cs",
+              "RelativeToolTip": "Interfaces notes\\ILife.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:13:11.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "ILife.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\ILife.cs",
+              "RelativeDocumentMoniker": "Week 4 notes\\ILife.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\ILife.cs",
+              "RelativeToolTip": "Week 4 notes\\ILife.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:15:45.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise 2\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Program.cs",
+              "RelativeToolTip": "Exercise 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:32:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Shape.cs",
+              "RelativeDocumentMoniker": "Exercise 2\\Shape.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Shape.cs",
+              "RelativeToolTip": "Exercise 2\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:33:00.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Exercise 2\\Rectangle.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Rectangle.cs",
+              "RelativeToolTip": "Exercise 2\\Rectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:39:08.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Circle.cs",
+              "RelativeDocumentMoniker": "Exercise 2\\Circle.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Exercise 2\\Circle.cs",
+              "RelativeToolTip": "Exercise 2\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:43:08.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\Cat.cs",
+              "RelativeDocumentMoniker": "Week 4 notes\\Cat.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\Cat.cs",
+              "RelativeToolTip": "Week 4 notes\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:39:28.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\Animal.cs",
               "RelativeDocumentMoniker": "Week 4 notes\\Animal.cs",
@@ -355,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 4 notes - Inheritance\\Week 4 notes\\Program.cs",
               "RelativeDocumentMoniker": "Week 4 notes\\Program.cs",
@@ -363,8 +366,7 @@
               "RelativeToolTip": "Week 4 notes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:20:39.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T16:20:39.789Z"
             }
           ]
         },
@@ -375,16 +377,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 169,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }

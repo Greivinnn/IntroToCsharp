@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C51B9F-718C-42CA-A8CA-FC04A10B7CBD}|Week 7 - notes LINQ\\Week 7 - notes LINQ.csproj|c:\\lasale first year stuff\\introduction to c#\\week 7 - generics notes\\week 7 - notes linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C51B9F-718C-42CA-A8CA-FC04A10B7CBD}|Week 7 - notes LINQ\\Week 7 - notes LINQ.csproj|solutionrelative:week 7 - notes linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C51B9F-718C-42CA-A8CA-FC04A10B7CBD}|Week 7 - notes LINQ\\Week 7 - notes LINQ.csproj|c:\\lasale first year stuff\\introduction to c#\\week 7 - generics notes\\week 7 - notes linq\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C51B9F-718C-42CA-A8CA-FC04A10B7CBD}|Week 7 - notes LINQ\\Week 7 - notes LINQ.csproj|solutionrelative:week 7 - notes linq\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44459E4A-CD7B-4DB7-9389-C59B59D991A5}|Week 7 - Generics Notes\\Week 7 - Generics Notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 7 - generics notes\\week 7 - generics notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44459E4A-CD7B-4DB7-9389-C59B59D991A5}|Week 7 - Generics Notes\\Week 7 - Generics Notes.csproj|solutionrelative:week 7 - generics notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44459E4A-CD7B-4DB7-9389-C59B59D991A5}|Week 7 - Generics Notes\\Week 7 - Generics Notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 7 - generics notes\\week 7 - generics notes\\multiplegenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44459E4A-CD7B-4DB7-9389-C59B59D991A5}|Week 7 - Generics Notes\\Week 7 - Generics Notes.csproj|solutionrelative:week 7 - generics notes\\multiplegenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44459E4A-CD7B-4DB7-9389-C59B59D991A5}|Week 7 - Generics Notes\\Week 7 - Generics Notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 7 - generics notes\\week 7 - generics notes\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44459E4A-CD7B-4DB7-9389-C59B59D991A5}|Week 7 - Generics Notes\\Week 7 - Generics Notes.csproj|solutionrelative:week 7 - generics notes\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44459E4A-CD7B-4DB7-9389-C59B59D991A5}|Week 7 - Generics Notes\\Week 7 - Generics Notes.csproj|c:\\lasale first year stuff\\introduction to c#\\week 7 - generics notes\\week 7 - generics notes\\stacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44459E4A-CD7B-4DB7-9389-C59B59D991A5}|Week 7 - Generics Notes\\Week 7 - Generics Notes.csproj|solutionrelative:week 7 - generics notes\\stacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - notes LINQ\\Person.cs",
+              "RelativeDocumentMoniker": "Week 7 - notes LINQ\\Person.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - notes LINQ\\Person.cs",
+              "RelativeToolTip": "Week 7 - notes LINQ\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:38:39.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - notes LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Week 7 - notes LINQ\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - notes LINQ\\Program.cs",
+              "RelativeToolTip": "Week 7 - notes LINQ\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAF4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:20:10.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultipleGenerics.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - Generics Notes\\MultipleGenerics.cs",
+              "RelativeDocumentMoniker": "Week 7 - Generics Notes\\MultipleGenerics.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - Generics Notes\\MultipleGenerics.cs",
+              "RelativeToolTip": "Week 7 - Generics Notes\\MultipleGenerics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:52:04.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - Generics Notes\\Box.cs",
+              "RelativeDocumentMoniker": "Week 7 - Generics Notes\\Box.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - Generics Notes\\Box.cs",
+              "RelativeToolTip": "Week 7 - Generics Notes\\Box.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:34:38.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stacks.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - Generics Notes\\Stacks.cs",
+              "RelativeDocumentMoniker": "Week 7 - Generics Notes\\Stacks.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - Generics Notes\\Stacks.cs",
+              "RelativeToolTip": "Week 7 - Generics Notes\\Stacks.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:30:10.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - Generics Notes\\Program.cs",
+              "RelativeDocumentMoniker": "Week 7 - Generics Notes\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 7 - Generics Notes\\Week 7 - Generics Notes\\Program.cs",
+              "RelativeToolTip": "Week 7 - Generics Notes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:18:10.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

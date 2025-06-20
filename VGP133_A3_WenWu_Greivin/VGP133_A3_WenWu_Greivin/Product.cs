@@ -8,7 +8,7 @@ namespace VGP133_A3_WenWu_Greivin
 {
     public class Product
     {
-        public string _productName;
+        private string _productName;
         private float _price;
         private float _discount;
         private string _description;
@@ -16,6 +16,7 @@ namespace VGP133_A3_WenWu_Greivin
         public string ProductName
         {
             get { return _productName; }
+            set { _productName = value; }
         }
 
         public Product(string productName, float price, float discount, string description)

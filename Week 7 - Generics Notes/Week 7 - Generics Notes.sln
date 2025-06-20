@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 7 - Generics Notes", "Week 7 - Generics Notes\Week 7 - Generics Notes.csproj", "{44459E4A-CD7B-4DB7-9389-C59B59D991A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 7 - notes LINQ", "Week 7 - notes LINQ\Week 7 - notes LINQ.csproj", "{11C51B9F-718C-42CA-A8CA-FC04A10B7CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44459E4A-CD7B-4DB7-9389-C59B59D991A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44459E4A-CD7B-4DB7-9389-C59B59D991A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44459E4A-CD7B-4DB7-9389-C59B59D991A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44459E4A-CD7B-4DB7-9389-C59B59D991A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C51B9F-718C-42CA-A8CA-FC04A10B7CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C51B9F-718C-42CA-A8CA-FC04A10B7CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C51B9F-718C-42CA-A8CA-FC04A10B7CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C51B9F-718C-42CA-A8CA-FC04A10B7CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D9AE663-DE56-4A32-8529-C3C6780CDCFE}
+	EndGlobalSection
+EndGlobal

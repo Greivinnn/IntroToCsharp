@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Introduction to C#\\Week 1 - FirstFile\\Week 1 - FirstFile\\Week 1 - FirstFile.csproj",
+      "projectUniqueName": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\Week 1 - FirstFile\\Week 1 - FirstFile.csproj",
       "projectName": "Week 1 - FirstFile",
-      "projectPath": "C:\\Introduction to C#\\Week 1 - FirstFile\\Week 1 - FirstFile\\Week 1 - FirstFile.csproj",
+      "projectPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\Week 1 - FirstFile\\Week 1 - FirstFile.csproj",
       "packagesPath": "C:\\Users\\greiv\\.nuget\\packages\\",
-      "outputPath": "C:\\Introduction to C#\\Week 1 - FirstFile\\Week 1 - FirstFile\\obj\\",
+      "outputPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\Week 1 - FirstFile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C93BE99A-A75C-41F2-A5B2-98C93DC95BCC}|Practice Exercises\\Practice Exercises.csproj|c:\\lasale first year stuff\\introduction to c#\\week 2 - functions overview\\practice exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93BE99A-A75C-41F2-A5B2-98C93DC95BCC}|Practice Exercises\\Practice Exercises.csproj|solutionrelative:practice exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7211DAE-96FB-4C38-9CF9-887DB0261E1D}|Function Practice\\Function Practice.csproj|c:\\lasale first year stuff\\introduction to c#\\week 2 - functions overview\\function practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7211DAE-96FB-4C38-9CF9-887DB0261E1D}|Function Practice\\Function Practice.csproj|solutionrelative:function practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4BCE255-E20F-4542-A005-F7902F1A31ED}|Week 2 - Functions Overview\\Week 2 - Functions Overview.csproj|c:\\lasale first year stuff\\introduction to c#\\week 2 - functions overview\\week 2 - functions overview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4BCE255-E20F-4542-A005-F7902F1A31ED}|Week 2 - Functions Overview\\Week 2 - Functions Overview.csproj|solutionrelative:week 2 - functions overview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C93BE99A-A75C-41F2-A5B2-98C93DC95BCC}|Practice Exercises\\Practice Exercises.csproj|c:\\lasale first year stuff\\introduction to c#\\week 2 - functions overview\\practice exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C93BE99A-A75C-41F2-A5B2-98C93DC95BCC}|Practice Exercises\\Practice Exercises.csproj|solutionrelative:practice exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,32 +34,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Function Practice\\Program.cs",
               "RelativeDocumentMoniker": "Function Practice\\Program.cs",
               "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Function Practice\\Program.cs",
               "RelativeToolTip": "Function Practice\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwEQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T21:02:37.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Practice Exercises\\Program.cs",
               "RelativeDocumentMoniker": "Practice Exercises\\Program.cs",
               "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Practice Exercises\\Program.cs",
               "RelativeToolTip": "Practice Exercises\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:34:26.118Z"
+              "WhenOpened": "2025-04-10T20:34:26.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 2 - Functions Overview\\Week 2 - Functions Overview\\Program.cs",
               "RelativeDocumentMoniker": "Week 2 - Functions Overview\\Program.cs",

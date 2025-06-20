@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Introduction to C#\\Week 1 - FirstFile\\",
+  "WorkspaceRootPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64964723-57F9-4926-89C8-DFF875E67A36}|More Exercises\\More Exercises.csproj|c:\\introduction to c#\\week 1 - firstfile\\more exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64964723-57F9-4926-89C8-DFF875E67A36}|More Exercises\\More Exercises.csproj|solutionrelative:more exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA4D09B5-CA23-4151-9B99-4EC01ED79EDC}|Exercise1\\Exercise1.csproj|c:\\introduction to c#\\week 1 - firstfile\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA4D09B5-CA23-4151-9B99-4EC01ED79EDC}|Exercise1\\Exercise1.csproj|c:\\lasale first year stuff\\introduction to c#\\week 1 - firstfile\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA4D09B5-CA23-4151-9B99-4EC01ED79EDC}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1026F49A-0B9D-4A36-A91F-E94F18D724C2}|Week 1 - FirstFile\\Week 1 - FirstFile.csproj|c:\\introduction to c#\\week 1 - firstfile\\week 1 - firstfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1026F49A-0B9D-4A36-A91F-E94F18D724C2}|Week 1 - FirstFile\\Week 1 - FirstFile.csproj|c:\\lasale first year stuff\\introduction to c#\\week 1 - firstfile\\week 1 - firstfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1026F49A-0B9D-4A36-A91F-E94F18D724C2}|Week 1 - FirstFile\\Week 1 - FirstFile.csproj|solutionrelative:week 1 - firstfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64964723-57F9-4926-89C8-DFF875E67A36}|More Exercises\\More Exercises.csproj|c:\\lasale first year stuff\\introduction to c#\\week 1 - firstfile\\more exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64964723-57F9-4926-89C8-DFF875E67A36}|More Exercises\\More Exercises.csproj|solutionrelative:more exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\Program.cs",
               "RelativeDocumentMoniker": "More Exercises\\Program.cs",
-              "ToolTip": "C:\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\Program.cs",
               "RelativeToolTip": "More Exercises\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T18:35:14.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Introduction to C#\\Week 1 - FirstFile\\Exercise1\\Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\Exercise1\\Program.cs",
               "RelativeDocumentMoniker": "Exercise1\\Program.cs",
-              "ToolTip": "C:\\Introduction to C#\\Week 1 - FirstFile\\Exercise1\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\Exercise1\\Program.cs",
               "RelativeToolTip": "Exercise1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T17:25:17.456Z"
+              "WhenOpened": "2025-04-10T17:25:17.456Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Introduction to C#\\Week 1 - FirstFile\\Week 1 - FirstFile\\Program.cs",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\Week 1 - FirstFile\\Program.cs",
               "RelativeDocumentMoniker": "Week 1 - FirstFile\\Program.cs",
-              "ToolTip": "C:\\Introduction to C#\\Week 1 - FirstFile\\Week 1 - FirstFile\\Program.cs",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\Week 1 - FirstFile\\Program.cs",
               "RelativeToolTip": "Week 1 - FirstFile\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwFIAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T16:43:18.892Z"
+              "WhenOpened": "2025-04-10T16:43:18.892Z",
+              "EditorCaption": ""
             }
           ]
         },

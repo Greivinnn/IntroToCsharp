@@ -1,0 +1,15 @@
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\bin\Debug\net8.0\Question 4.exe
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\bin\Debug\net8.0\Question 4.deps.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\bin\Debug\net8.0\Question 4.runtimeconfig.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\bin\Debug\net8.0\Question 4.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\bin\Debug\net8.0\Question 4.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\obj\Debug\net8.0\Question 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\obj\Debug\net8.0\Question 4.AssemblyInfoInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\obj\Debug\net8.0\Question 4.AssemblyInfo.cs
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\obj\Debug\net8.0\Question 4.csproj.CoreCompileInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\obj\Debug\net8.0\Question 4.sourcelink.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\obj\Debug\net8.0\Question 4.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\obj\Debug\net8.0\refint\Question 4.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\obj\Debug\net8.0\Question 4.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\obj\Debug\net8.0\Question 4.genruntimeconfig.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_A6_WenWu_Greivin\Question 4\obj\Debug\net8.0\ref\Question 4.dll

@@ -1,0 +1,15 @@
+{
+  "PlayerName": "JP",
+  "HairColor": "brown",
+  "Gender": "M",
+  "Age": 22,
+  "MaxHp": 100,
+  "CurrentHp": 100,
+  "Atk": 10,
+  "Def": 7,
+  "CurrentGold": 50,
+  "DefeatedDragon": false,
+  "EquippedWeapon": null,
+  "EquippedArmor": null,
+  "Inventory": []
+}

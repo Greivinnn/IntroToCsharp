@@ -23,7 +23,8 @@ namespace Question_1
                     return;
                 }
 
-                Product foundProduct = storeProducts.Find(product => product._productName.Equals(itemName, StringComparison.OrdinalIgnoreCase)); // finds the product name and ignores the casing, product => is called a lambda expression
+
+                Product foundProduct = storeProducts.Find(product => product.ProductName.Equals(itemName, StringComparison.OrdinalIgnoreCase)); // finds the product name and ignores the casing, product => is called a lambda expression
 
                 if (foundProduct != null)
                 {
@@ -94,8 +95,68 @@ namespace Question_1
                 product.DisplayInfo();
             }
 
+            float totalAmount = 0;
+            foreach (var product in _cartProducts)
+            {
+                totalAmount += product.GetPrice();
+            }
+            Console.WriteLine($"Total amount to pay: ${totalAmount:F2}");
+            Console.WriteLine();
+
+            Console.WriteLine("What payment method are you using?");
+            Console.WriteLine("1. Cash (the best, no fees)");
+            Console.WriteLine("2. Card (has 2% fees)");
+            Console.WriteLine("3. Paypal (has 2% fees)");
+
+            int choice;
+            while (true)
+            {
+                Console.Write("Enter your choice (1, 2, or 3): ");
+                string input = Console.ReadLine();
+
+                if (int.TryParse(input, out choice) && (choice == 1 || choice == 2 || choice == 3))
+                {
+                    break; // Valid input, exit the loop
+                }
+                else
+                {
+                    Console.WriteLine("Invalid choice. Please enter 1, 2, or 3.");
+                }
+            }
+
+            Random random = new Random();
+            int paymentId = random.Next(1000, 9999);
+
+            PaymentMethod paymentMethod;
+
+            switch (choice)
+            {
+                case 1:
+                    paymentMethod = new Cash(paymentId, totalAmount);
+                    break;
+                case 2:
+                    // Add 2% fee for credit card
+                    float cardAmount = totalAmount * 1.02f;
+                    Console.WriteLine($"Amount after 2% credit card fee: ${cardAmount:F2}");
+                    paymentMethod = new CreditCard(paymentId, cardAmount);
+                    break;
+                case 3:
+                    // Add 2% fee for PayPal
+                    float paypalAmount = totalAmount * 1.02f;
+                    Console.WriteLine($"Amount after 2% PayPal fee: ${paypalAmount:F2}");
+                    paymentMethod = new PayPal(paymentId, paypalAmount);
+                    break;
+                default:
+                    // This should never happen due to the validation above :)
+                    Console.WriteLine("Invalid payment method. Defaulting to cash.");
+                    paymentMethod = new Cash(paymentId, totalAmount);
+                    break;
+            }
+
+            Console.WriteLine($"Processing payment #{paymentId}...");
+            paymentMethod.ProcessPayment();
+
             _cartProducts.Clear(); // Clear the cart after checkout
-            Console.WriteLine("Thank you for your purchase!");
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\bin\Debug\net8.0\Action notes.exe
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\bin\Debug\net8.0\Action notes.deps.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\bin\Debug\net8.0\Action notes.runtimeconfig.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\bin\Debug\net8.0\Action notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\bin\Debug\net8.0\Action notes.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\obj\Debug\net8.0\Action notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\obj\Debug\net8.0\Action notes.AssemblyInfoInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\obj\Debug\net8.0\Action notes.AssemblyInfo.cs
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\obj\Debug\net8.0\Action notes.csproj.CoreCompileInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\obj\Debug\net8.0\Action notes.sourcelink.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\obj\Debug\net8.0\Action notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\obj\Debug\net8.0\refint\Action notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\obj\Debug\net8.0\Action notes.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\obj\Debug\net8.0\Action notes.genruntimeconfig.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 8 - Delegate notes\Action notes\obj\Debug\net8.0\ref\Action notes.dll

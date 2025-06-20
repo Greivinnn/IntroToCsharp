@@ -1,0 +1,2 @@
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_Final_WenWu_Greivin\VGP133_Final_WenWu_Greivin\bin\Release\net8.0\win-x64\publish\VGP133_Final_WenWu_Greivin.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\VGP133_Final_WenWu_Greivin\VGP133_Final_WenWu_Greivin\bin\Release\net8.0\win-x64\publish\VGP133_Final_WenWu_Greivin.exe

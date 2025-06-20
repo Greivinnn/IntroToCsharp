@@ -1,0 +1,15 @@
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\bin\Debug\net8.0\Week 7 - Generics Notes.exe
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\bin\Debug\net8.0\Week 7 - Generics Notes.deps.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\bin\Debug\net8.0\Week 7 - Generics Notes.runtimeconfig.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\bin\Debug\net8.0\Week 7 - Generics Notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\bin\Debug\net8.0\Week 7 - Generics Notes.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\obj\Debug\net8.0\Week 7 - Generics Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\obj\Debug\net8.0\Week 7 - Generics Notes.AssemblyInfoInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\obj\Debug\net8.0\Week 7 - Generics Notes.AssemblyInfo.cs
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\obj\Debug\net8.0\Week 7 - Generics Notes.csproj.CoreCompileInputs.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\obj\Debug\net8.0\Week 7 - Generics Notes.sourcelink.json
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\obj\Debug\net8.0\Week 7 - Generics Notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\obj\Debug\net8.0\refint\Week 7 - Generics Notes.dll
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\obj\Debug\net8.0\Week 7 - Generics Notes.pdb
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\obj\Debug\net8.0\Week 7 - Generics Notes.genruntimeconfig.cache
+C:\LASALE FIRST YEAR STUFF\Introduction to C#\Week 7 - Generics Notes\Week 7 - Generics Notes\obj\Debug\net8.0\ref\Week 7 - Generics Notes.dll

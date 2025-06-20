@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player>
+    <Player_Name>Jpinga</Player_Name>
+    <HighScore>420</HighScore>
+  </Player>
+  <Player>
+    <Player_Name>chantiGG</Player_Name>
+    <HighScore>420</HighScore>
+  </Player>
+  <Player>
+    <Player_Name>ELCUM</Player_Name>
+    <HighScore>420</HighScore>
+  </Player>
+</ArrayOfPlayer>

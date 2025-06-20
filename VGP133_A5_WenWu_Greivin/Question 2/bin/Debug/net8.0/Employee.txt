@@ -1,0 +1,12 @@
+Tom
+40
+90000
+tom@gmail.com
+Rich
+33
+12345.432
+richy@rich.com
+Newbie
+20
+23543
+guest@bot.com

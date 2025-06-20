@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week 7 - Generics Notes/1.0.0": {
+        "runtime": {
+          "Week 7 - Generics Notes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week 7 - Generics Notes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

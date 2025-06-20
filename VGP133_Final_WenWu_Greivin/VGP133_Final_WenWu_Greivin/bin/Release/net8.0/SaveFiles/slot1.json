@@ -1,0 +1,30 @@
+{
+  "PlayerName": "greivin",
+  "HairColor": "m",
+  "Gender": "M",
+  "Age": 22,
+  "MaxHp": 100,
+  "CurrentHp": 100,
+  "Atk": 18,
+  "Def": 7,
+  "CurrentGold": 15,
+  "DefeatedDragon": false,
+  "EquippedWeapon": {
+    "AttackBonus": 8,
+    "ItemName": "Steel Sword",
+    "Quantity": 0,
+    "Type": "Weapon",
+    "Value": 50,
+    "HealBonus": 8
+  },
+  "EquippedArmor": null,
+  "Inventory": [
+    {
+      "ItemName": "Green Apple",
+      "Quantity": 1,
+      "Type": "Consumable",
+      "Value": 0,
+      "HealBonus": 5
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\More Exercises.csproj": {}
+    "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\More Exercises.csproj": {}
   },
   "projects": {
-    "C:\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\More Exercises.csproj": {
+    "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\More Exercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\More Exercises.csproj",
+        "projectUniqueName": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\More Exercises.csproj",
         "projectName": "More Exercises",
-        "projectPath": "C:\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\More Exercises.csproj",
+        "projectPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\More Exercises.csproj",
         "packagesPath": "C:\\Users\\greiv\\.nuget\\packages\\",
-        "outputPath": "C:\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\obj\\",
+        "outputPath": "C:\\LASALE FIRST YEAR STUFF\\Introduction to C#\\Week 1 - FirstFile\\More Exercises\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

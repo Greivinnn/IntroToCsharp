@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week 7 - notes LINQ/1.0.0": {
+        "runtime": {
+          "Week 7 - notes LINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week 7 - notes LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

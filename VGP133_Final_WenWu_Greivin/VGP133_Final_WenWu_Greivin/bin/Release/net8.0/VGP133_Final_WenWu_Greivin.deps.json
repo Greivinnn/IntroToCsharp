@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VGP133_Final_WenWu_Greivin/1.0.0": {
+        "runtime": {
+          "VGP133_Final_WenWu_Greivin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VGP133_Final_WenWu_Greivin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
